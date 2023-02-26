@@ -1,13 +1,13 @@
 # design-model-ml
 
 # DataSet
-1.Get information from
+1. Get information from
     **Principal Page:**
-    ```sh
+    ```bash
     https://www.kaggle.com/
     ```
     **Got dataset page:**
-    ```sh    
+    ```bash    
     https://www.kaggle.com/datasets/belayethossainds/cancer-and-deaths-dataset-19902019-globally
     ```
 ## pip3 freeze
