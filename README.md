@@ -8,7 +8,8 @@
     ```
     **Got dataset page:**
     ```bash    
-    https://www.kaggle.com/datasets/belayethossainds/cancer-and-deaths-dataset-19902019-globally
+    Regression Lineal: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+    
     ```
 ## pip3 freeze
 Update dependencies installed locolly
