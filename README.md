@@ -8,8 +8,8 @@
     ```
     **Got dataset page:**
     ```bash    
-    Regression Lineal: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
-    
+    Linear Regression: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+    Logistic Regresssion: https://www.kaggle.com/datasets/rakeshrau/social-network-ads?select=Social_Network_Ads.csv
     ```
 ## pip3 freeze
 Update dependencies installed locolly
